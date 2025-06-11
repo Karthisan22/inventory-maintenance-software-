@@ -1,0 +1,14 @@
+{
+  "name": "react-inventory-management-system-main",
+  "version": "1.0.0",
+  "description": "Inventory Management System Built with React JS, Node JS, Express JS, MongoDB and Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
